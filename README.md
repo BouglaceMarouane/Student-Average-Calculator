@@ -35,9 +35,7 @@ This project is a simple web application that calculates a student's weighted av
 
 ## ***🛠️ Technologies Used :***
 
-<img alt="HTML" src="https://img.shields.io/badge/HTML-5-orange?logo=html5&amp;logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-3-blue?logo=css3&amp;logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6-green?logo=javascript&amp;logoColor=white">
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-green?logo=javascript&logoColor=white)
 
 ## ***⚙️ Installation Steps :***
 
