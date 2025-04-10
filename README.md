@@ -6,8 +6,11 @@ This project is a simple web application that calculates a student's weighted av
 ## ***🔧 Key Features :***
 
 - **📝 Input Fields** : Users can enter their name, three test scores, and a final exam score.
+  
 - **📊 Weighted Average Calculation** : The application calculates the average with 33% weight for tests and 67% weight for the final exam.
+  
 - **✅ Pass/Fail Result** : Displays a success message with a green background if the student passes, or a failure message with a red background if they fail.
+  
 - **🎨 Dynamic Styling** : The result box is styled dynamically based on the outcome.
 
 ## ***📷 Screenshots :***
