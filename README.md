@@ -68,7 +68,7 @@ If you encounter issues or want to request a new feature, please open an issue i
 ## ***⭐ Support :***
 If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and happy coding! 🚀
 
-## ***📬 Stay in Touch***
+## ***📬 Stay in Touch :***
 
 - 📧 Email: bouglacemarouane@gmail.com  
 - 🌐 GitHub: [Bouglace Marouane](https://github.com/BouglaceMarouane)
