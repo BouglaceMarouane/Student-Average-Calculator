@@ -28,7 +28,7 @@ This project is a simple web application that calculates a student's weighted av
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp2.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp2.png" alt="image alt"/>
   <br>
   <em>Invalid Case (Fail): Displays a failure message with a red background when the student fails.</em>
 </p><br>
