@@ -16,7 +16,7 @@ This project is a simple web application that calculates a student's weighted av
 ## ***📷 Screenshots :***
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/home.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/home.png" alt="image alt"/>
   <br>
   <em>Home Screen: Enter your name and scores to calculate your average.</em>
 </p><br>
