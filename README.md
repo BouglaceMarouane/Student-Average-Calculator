@@ -1,7 +1,5 @@
 # 📊 **Student Average Calculator** 🎓
 
-
-
 ## ***✨ Project Description :***
 This project is a simple web application that calculates a student's weighted average based on their test and final exam scores. It determines whether the student has passed or failed the module and displays the result dynamically.
 
