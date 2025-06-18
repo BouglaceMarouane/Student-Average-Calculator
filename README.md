@@ -1,7 +1,6 @@
 
 
 
-
 # 📊 **Student Average Calculator** 🎓
 
 ## ***✨ Project Description :***
